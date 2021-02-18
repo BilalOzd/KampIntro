@@ -16,7 +16,7 @@ namespace Methods
         public void Add2(string urunAdi, string aciklama, double fiyat, int stokAdedi)
         {
             Console.WriteLine("Tebrikler, Sepete eklendi : " + urunAdi);
-
+           
 
         }
     }
